@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{63D3F8EC-7955-46D1-A7BE-877A5A68AC9B}|Default">
+  <MonoDevelop.Ide.ItemProperties.ScottishEnterpriseDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScottishEnterpriseDemo/BrowserTests/EventAndWebinarTests.cs">
+    <Files>
+      <File FileName="ScottishEnterpriseDemo/BrowserTests/EventAndWebinarTests.cs" Line="119" Column="37" />
+      <File FileName="ScottishEnterpriseDemo/PageObjectModel/Events/EventInfoPage.cs" Line="10" Column="47" />
+      <File FileName="ScottishEnterpriseDemo/PageObjectModel/Events/EventsAndWebinarsPage.cs" Line="53" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ScottishEnterpriseDemo" expanded="True">
+            <Node name="ScottishEnterpriseDemo" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="BrowserTests" expanded="True">
+                <Node name="EventAndWebinarTests.cs" selected="True" />
+              </Node>
+              <Node name="PageObjectModel" expanded="True">
+                <Node name="Events" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ScottishEnterpriseDemo" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/markhanlon/Projects/ScottishEnterpriseDemo/ScottishEnterpriseDemo/PageObjectModel/Events/EventsAndWebinarsPage.cs" relfile="ScottishEnterpriseDemo/PageObjectModel/Events/EventsAndWebinarsPage.cs" line="57" column="1" />
+      <Breakpoint file="/Users/markhanlon/Projects/ScottishEnterpriseDemo/ScottishEnterpriseDemo/BrowserTests/EventAndWebinarTests.cs" relfile="ScottishEnterpriseDemo/BrowserTests/EventAndWebinarTests.cs" line="116" column="1" />
+      <Breakpoint file="/Users/markhanlon/Projects/ScottishEnterpriseDemo/ScottishEnterpriseDemo/BrowserTests/EventAndWebinarTests.cs" relfile="ScottishEnterpriseDemo/BrowserTests/EventAndWebinarTests.cs" line="118" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
