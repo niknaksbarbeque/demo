@@ -7,7 +7,7 @@ using OpenQA.Selenium.Chrome;
 using ScottishEnterpriseDemo.PageObjectModel.Events;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace BrowserTests
+namespace PageTests
 {
     [TestClass]
     public class EventAndWebinarTests
